@@ -55,7 +55,7 @@
                         "managedDisk": {
                             "storageAccountType": "Standard_LRS"
                         },
-                        "diskSizeGB": 110
+                        "diskSizeGB": 115
                     },
                     "dataDisks": []
                 },
