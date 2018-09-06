@@ -1,1 +1,0 @@
-# arm-templates-cicd
