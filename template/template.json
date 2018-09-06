@@ -62,6 +62,7 @@
                 "osProfile": {
                     "computerName": "[parameters('virtualMachines_my_machine_1_name')]",
                     "adminUsername": "pranav",
+                    "adminPassword": "password_123",
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true
