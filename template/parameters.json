@@ -9,7 +9,7 @@
             "value": "my-machine-1"
         },
         "virtualMachineSize": {
-            "value": "Standard_B1s"
+            "value": "Standard_B1ms"
         },
         "adminUsername": {
             "value": null
