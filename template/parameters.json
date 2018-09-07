@@ -12,7 +12,7 @@
             "value": "Standard_B1s"
         },
         "adminUsername": {
-            "value": "pranav"
+            "value": null
         },
         "virtualNetworkName": {
             "value": "ARM-Rg-vnet"
@@ -24,7 +24,7 @@
             "value": "my-machine-1-nsg"
         },
         "adminPassword": {
-            "value": "password_123"
+            "value": null
         },
         "addressPrefix": {
             "value": "10.0.0.0/24"
